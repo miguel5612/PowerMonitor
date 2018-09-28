@@ -1,4 +1,4 @@
-﻿Sistema de supervision y apagado remoto para equipos de impresion 3D.
+﻿Power Monitor for home Applications.
 ==========
 
 El monitoreo y control remoto de la energia en residencias es fundamental para conocer e implementar 
